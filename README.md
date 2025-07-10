@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **DATA's**
 
-- 👨‍💻 All of my projects are available at [PORTFOLIO](PORTFOLIO)
+- 👨‍💻 All of my projects are available at [PORTFOLIO](https://asfakit.github.io/portfolio/)
 
 - 💬 Ask me about **POWER BI | TABLEAU | SQL | EXCEL | HTML,CSS,JAVASCRIPT**
 
